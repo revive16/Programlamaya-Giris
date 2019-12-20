@@ -5,9 +5,9 @@ public class carpimTablosu {
     
     public static void main(String[] args) {
         
-        for(int i=1;i<=10;i++)
+        for(int i=1;i<=9;i++)
         {
-            for(int b=1;b<=10;b++)
+            for(int b=1;b<=9;b++)
             {
                 System.out.println(i + " X " + b +" = " + (i*b));
             }
